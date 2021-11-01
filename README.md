@@ -1,2 +1,2 @@
 # packet_sniffer
-packet_sniffer for http websiter and use sslstrip for droping https website to http
+packet_sniffer for http website and for https websites use sslstrip for droping https website to http
